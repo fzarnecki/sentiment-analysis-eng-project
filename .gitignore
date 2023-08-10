@@ -1,0 +1,6 @@
+lightning_logs/
+/logs/
+**/__pycache__/
+serialized_models/
+test_data/
+checkpoint_m/
